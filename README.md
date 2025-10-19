@@ -1,7 +1,6 @@
-<h1 align="center">👋 Hi there, I'm Prathamesh Patil</h1>
-
+<!-- Animated Banner -->
 <p align="center">
-💻 Data Science Enthusiast | Python Learner | Exploring Machine Learning  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey+there!+👋+I'm+Prathamesh+Patil;Data+Science+Enthusiast+📊;Python+Learner+🐍;Machine+Learning+Explorer+🤖;Welcome+to+my+GitHub!+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -70,6 +69,13 @@ Exploring real-time Google Trends data using Python, Pandas, and Matplotlib to u
   <a href="mailto:your-email@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+
+---
+
+### 👀 Profile Visitors
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Prathameshp-018&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile visitor counter"/>
 </p>
 
 ---
